@@ -4,6 +4,14 @@ A working, clickable prototype for the AI Engineer case study. It's a dependency
 static web app (plain HTML/CSS/JS, no build step, no framework) covering **all ten
 challenges** in one connected product rather than ten disconnected screens.
 
+## Links
+
+Live Demo:
+https://taxplatform.netlify.app/
+
+GitHub:
+https://github.com/shruti0603/ledger-ai-tax-platform
+
 ## Run it (pick any one)
 
 **Fastest — no install:** double-click `index.html`. Everything is a relative file
