@@ -1,8 +1,6 @@
-# Walkthrough script (for your recording)
+# Walkthrough Script
 
-Claude can't record video for you — the case study asks for a screen recording with your
-own narration. Here's a script you can read almost verbatim, mapped to a click-path through
-the prototype, that hits all ten challenges in about 5 minutes. Feel free to cut it down.
+A guided recording script covering all ten challenges.
 
 **Setup:** have the prototype open on the Dashboard, logged in as **Maria Chen** (client).
 
